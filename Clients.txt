@@ -1,0 +1,5 @@
+662 Ali Ahmed m 1994 4 1 122.22 marketing accountant
+-122 mohammed jassim f 1992 4 5 19.22 production manager
+16 fatima mohammed f 1990 6 5 22.21 customerService mechanic
+662 Ali Ahmed m 1994 4 1 122.22 marketing accountant
+422 mohammed Ali m 1992 5 2 12.2 marketing clerk
